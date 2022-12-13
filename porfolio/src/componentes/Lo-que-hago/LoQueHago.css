@@ -1,0 +1,34 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+
+.LoQueHago{
+    margin: 1% auto 3% auto;
+    text-align: center;
+    padding:  0 135px;
+        
+}
+
+.skill{
+  
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+   
+}
+
+.skill div i{
+    margin: 12% auto;
+    font-size: 50px;
+    color: #F4DC4C;
+    
+}
+
+.skill div{
+
+    flex-direction: row;
+    border-radius: 10px;
+    width: 30%;
+    height: 150px;
+    margin-top:2%;
+}

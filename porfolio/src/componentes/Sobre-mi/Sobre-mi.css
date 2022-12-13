@@ -1,0 +1,73 @@
+.Sobre-Mi{
+    padding: 135px;
+}
+h4{
+   
+    padding: 2px ;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: #F4DC4C;
+    margin: 1% auto 1% auto;
+    text-align: center;
+  
+    
+ }
+
+ h2{
+    margin: 1% auto 3% auto;
+    text-align: center;
+    
+ }
+
+.Sobre-Mi p{
+    
+    width: 95%;
+    font-size: 20px;
+    
+}
+.Sobre-Mi h3{
+   color:  rgb(65, 63, 66);
+}
+
+.Tamaño{
+
+    color: black;
+    text-align: center;
+    height:75px;
+    width:75px;
+    background-color: #F4DC4C;
+    border-radius: 50%;
+    font-size: 50px;
+
+}
+
+.Sobre-Mi table th{
+    color: rgb(60, 64, 72);
+    padding: 5px 55px;
+}
+.Sobre-Mi td{
+    padding: 5px 55px;
+
+}
+
+ h4{
+    
+    color:#000;
+  background-color: #F4DC4C;
+  margin-inline: 45%;
+
+ 
+}
+
+.Sobre-Mi h3{
+
+    color: #000;
+    font-size: 25px;
+
+}
+
+
+
+h5{
+  font-size: 20px;  
+}
